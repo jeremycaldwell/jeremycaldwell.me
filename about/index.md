@@ -4,7 +4,7 @@ title: About
 templateClass: tmpl-post
 eleventyNavigation:
   key: About
-  order: 3
+  order: 4
 ---
 
-I am a person that writes stuff.
+Principal of [Eternalistic Inc](https://www.eternalistic.com). Specializing in front-end development.
