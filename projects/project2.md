@@ -1,7 +1,7 @@
 ---
-title: Blah blah blah
+title: Notera
 description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+date: 2014-01-01
 tags:
   - another-tag
 layout: layouts/project.njk

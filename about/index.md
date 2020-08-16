@@ -7,4 +7,51 @@ eleventyNavigation:
   order: 4
 ---
 
-Principal of [Eternalistic Inc](https://www.eternalistic.com). Specializing in front-end development.
+Principal of [Eternalistic Inc](https://www.eternalistic.com).
+
+I'm a consultant and front-end developer who specializes in Drupal theming and site development and am located in Spokane Valley, WA.
+
+I enjoy working on complex projects that allow me to think outside of the box and provide solutions and workflows which improve the usability of the site for both admins and users alike.
+
+[View my resume](/resume)
+
+### Work Highlights
+
+### 2020
+- Worked with Advomatic to create components and integrate Pattern Lab into the new [Brennan Center for Justice](https://www.brennancenter.org) site
+- Launched a startup called [Office Check](https://www.officecheck.in) In to screen employees and personel using a short questionnaire
+
+### 2019
+- Worked on the Stanley Black and Decker [Year in Review](https://www.stanleyblackanddecker.com/who-we-are/2019-year-review) site
+
+### 2018
+- Rebuilt and standardized the front-end framework and tooling for [Dartmouth College](https://home.dartmouth.edu)
+
+### 2017
+- Developed an Angular JS frontend for the [Symantec Blog](https://symantec-enterprise-blogs.security.com/blogs)
+
+### 2016
+- Developed front-end for Symantec Connect (no longer active)
+
+### 2015
+- Worked with [Lullabot](https://www.lullabot.com) as a contractor doing front-end development for [Syfy.com](https://www.syfy.com)
+- Lead front-end developer for [Linux.com](https://www.linux.com)
+
+### 2014
+- Worked on a start-up for music therapy notes called Notera
+- Developed complete site (front-end and back-end) for [Yoke's Fresh Markets](https://www.yokesfreshmarkets.com)
+
+### 2013
+- Developed the front-end for a startup called Crowdswell
+- Worked on a partner marketing portal for [Netflix](https://www.netflix.com)
+
+### 2011
+- Worked wit the University of Chicago on their News site
+
+### 2010
+- Developed complete site (front-end and back-end) for a startup called Eyeneer TV
+
+#### 2007
+- Created the [Acquia Marina](https://www.drupal.org/project/acquia_marina) theme for Drupal 6
+- Created the [Acquia Prosper](https://www.drupal.org/project/acquia_prosper) theme for Drupal 6
+- Created the [Acquia Slate](https://www.drupal.org/project/acquia_slate) theme for Drupal 6
