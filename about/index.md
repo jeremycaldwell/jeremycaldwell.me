@@ -7,13 +7,6 @@ eleventyNavigation:
   order: 4
 ---
 
-
-
-<iframe src="//app.officecheck.in/webform/contact/share/iframe-resizer/4.2.10" title="Contact | OfficeCheck.in" class="webform-share-iframe" frameborder="0" allow="geolocation; microphone; camera" allowtransparency="true" allowfullscreen="true" style="width:1px;min-width:100%"></iframe>
-<script src="//cdn.jsdelivr.net/gh/davidjbradshaw/iframe-resizer@4.2.10/js/iframeResizer.min.js"></script>
-<script>iFrameResize({}, '.webform-share-iframe');</script>
-
-
 Principal of [Eternalistic Inc](https://www.eternalistic.com).
 
 I'm a consultant and front-end developer who specializes in Drupal theming and site development and am located in Spokane Valley, WA.
@@ -21,6 +14,13 @@ I'm a consultant and front-end developer who specializes in Drupal theming and s
 I enjoy working on complex projects that allow me to think outside of the box and provide solutions and workflows which improve the usability of the site for both admins and users alike.
 
 [View my resume](/resume)
+
+## Get in touch
+<iframe src="//app.officecheck.in/webform/contact_jeremy_caldwell/share/iframe-resizer/4.2.10" title="Contact: Jeremy Caldwell | OfficeCheck.in" class="webform-share-iframe" frameborder="0" allow="geolocation; microphone; camera" allowtransparency="true" allowfullscreen="true" style="width:1px;min-width:100%"></iframe>
+<script src="//cdn.jsdelivr.net/gh/davidjbradshaw/iframe-resizer@4.2.10/js/iframeResizer.min.js"></script>
+<script>iFrameResize({}, '.webform-share-iframe');</script>
+
+<hr>
 
 ### Work Highlights
 
